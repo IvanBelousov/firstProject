@@ -10,6 +10,7 @@ import pages.demoqa.elements.CheckBoxPage;
 import pages.demoqa.elements.ElementsPage;
 import pages.demoqa.main_pages.MainPage;
 
+//Test_1
 public class Test_1 {
     private WebDriver driver;
     private MainPage mainPage;
